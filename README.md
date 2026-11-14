@@ -6,7 +6,7 @@ KotlinFoodOrdering is a command-line food ordering application. Customers can br
 
 My purpose in writing this software was to learn how Kotlin expresses common programming ideas: immutable `val` and mutable `var` variables, `if` and `when` used as expressions, `for` and `while` loops, functions with default parameters, classes, data classes and enum classes, and read-only versus mutable lists and maps. I also wanted to learn how to build, run and test a Kotlin/JVM project with Gradle.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cbwKfRzuZGs)
 
 # Development Environment
 
